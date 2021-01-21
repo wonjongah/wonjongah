@@ -1,5 +1,5 @@
 ### Hi there 👋
-  [![wonjongah's github stats](https://github-readme-stats.vercel.app/api?wonjongah=wonjongah)](https://github.com/anuraghazra/github-readme-stats)
+  [![wonjongah's github stats](https://github-readme-stats.vercel.app/api?username=wonjongah)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
