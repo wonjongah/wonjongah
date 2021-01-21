@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjongah&count_bg=%2381E3E0&title_bg=%23C3A6E1&icon=iconify.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
  
- ![다운로드 (1)](https://user-images.githubusercontent.com/50413112/105367107-6e6af680-5c43-11eb-8da8-8b0c9d5fae99.jpg)
+![GIT](https://user-images.githubusercontent.com/50413112/105367718-15e82900-5c44-11eb-8324-72230345ce93.jpg)
 
 <h3 align="center">😸 what i can do is 😸</h3>
  
