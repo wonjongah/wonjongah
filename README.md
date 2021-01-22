@@ -9,4 +9,4 @@
 
 <h2 align="center">💜 contact to me 💜</h2>
 
-<p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wonjongah.tistory.com/"/></a>  <a href="wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-ECCEF5?style=flat-square&logo=Gmail&logoColor=white&link=wonjongah@gmail.com"/></a></p>
+<p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wonjongah.tistory.com/"/></a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com)](mailto:wonjongah@gmail.com)</p>
